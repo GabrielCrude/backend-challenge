@@ -1,0 +1,5 @@
+apiVersion: v2
+name: jwt-validator-api
+description: A FastAPI application to validate JWT tokens.
+version: 0.1.0
+appVersion: "1.0"
